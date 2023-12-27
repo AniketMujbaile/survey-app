@@ -32,7 +32,7 @@ The project is organized into two main folders: `frontend` and `backend`.
 
 ### Frontend
 
-The `frontend` folder contains the React.js application built with Tailwind for styling.
+The `frontend` folder contains the React.js application.
 
 #### Installation
 
